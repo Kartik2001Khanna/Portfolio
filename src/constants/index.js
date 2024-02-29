@@ -134,7 +134,7 @@ const experiences = [
     company_name: "Cling Multi-Solutions",
     icon: cling,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "Dec 2021 - Feb 2022",
     points: [
       "Optimised the website performance and increased its efficiency by 18 percent by adopting search engine optimization and improving the ínterface",
       "Executed a dynamic interactive gallery from scratch based upon PHP, MySQL, HTML , Bootstrap for a online-gaming website with daily 1000+ user traffic",
@@ -146,7 +146,7 @@ const experiences = [
     company_name: "Random Publications LLP",
     icon: rp,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "May 2022 - Jul 2022",
     points: [
       "Employing ReactJS, TurnJS and ViteJS, a cutting-edge e-commerce platform was meticulously crafted, enhanced with Tailwind for a visually captivating UI",
 "Built a custom backend API using MERN Stack, enabling user authentication, and implementing real-time order tracking system for a smooth experience",
@@ -158,7 +158,7 @@ const experiences = [
     company_name: "zeed",
     icon: zeed,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Feb 2023 - Apr 2023",
     points: [
       "Pioneered a comprehensive admin panel with critical data metrics like user value and integrated third-party API like Metals API for real-time updates",
 "Engineered an efficient database backend schema using NoSQL database, guaranteeing effective storage and retrieval of data for seamless operations",
@@ -170,7 +170,7 @@ const experiences = [
     company_name: "Fettle",
     icon: fettle,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "May 2023 - Jun 2023",
     points: [
       "Elevated app performance with tech integrations like Native Track-Player, Redis server and enabled precise user activity tracking through analytics APIs",
 "Implemented a notification token system for users and resolved bugs and integrated various packages/tools like Google Fit, Image-Picker and Mixpanel",
@@ -182,7 +182,7 @@ const experiences = [
     company_name: "DSTRCT Media BV",
     icon: dstrct,
     iconBg: "#383E56",
-    date: "Jan 2023 - Present",
+    date: "Mar 2023 - Present",
     points: [
       "Developed a React native app, using technologies like react-native-gifted-chat, dialogflow for chatbots, alongside cloud databases and real-time updates",
 "Led a team of interns, supervising code quality and fostering a cooperative environment and made decisions on database schema and project architecture",
